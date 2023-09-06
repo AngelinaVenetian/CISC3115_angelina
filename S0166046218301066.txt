@@ -1,0 +1,11 @@
+Kilian Heilmann,
+Transit access and neighborhood segregation. Evidence from the Dallas light rail system,
+Regional Science and Urban Economics,
+Volume 73,
+2018,
+Pages 237-250,
+ISSN 0166-0462,
+https://doi.org/10.1016/j.regsciurbeco.2018.10.007.
+(https://www.sciencedirect.com/science/article/pii/S0166046218301066)
+Abstract: I study the effect of transit access on neighborhood incomes by exploiting a quasi-experimental setting of an extensively planned, but only partially built urban rail system in Dallas. I show that neighborhood income in census tracts that received rail access increases compared to neighborhoods that were promised to receive access, but did not due to funding cuts. The treatment effect is positively correlated with initial neighborhood income and negative for the poorest tracts. This reconciles gentrification and “poverty magnet” effects of rail infrastructure found in the earlier literature and highlights the role of transit as a potential incubator for income segregation.
+Keywords: Transit provision; Income segregation; Gentrification; Spatial sorting
