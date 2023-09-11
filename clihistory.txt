@@ -1,0 +1,28 @@
+    1  cd ~/Dowloads/
+    2  cd ~/Downloads/
+    3  pwd
+    4  git clone https://github.com/AngelinaVenetian/CISC3115_angelina.git
+    5  ls
+    6  cd CISC3115_angelina/
+    7  pwd
+    8  mkdir assignment1
+    9  ls
+   10  pwd
+   11  mkdir javacode
+   12  ls
+   13  cd javacode/
+   14  ls
+   15  vi HelloWorld.java
+   16  ls
+   17  pwd
+   18  cd ..
+   19  pwd
+   20  ls
+   21  cd /c/Users/Student/Downloads/CISC3115_angelina/javacode/
+   22  cd /c/Users/angel/Downloads/CISC3115_angelina/javacode
+   23  pwd
+   24  cd ..
+   25  ls
+   26  ls -1
+   27  history
+   28  history > clihistory.txt
